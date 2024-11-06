@@ -1,0 +1,41 @@
+Weather App README
+Author: kenneth thuo
+
+Description
+This repository contains code for a simple weather web application. The app allows users to search for a city and view its current weather conditions, including temperature, humidity, wind speed, and pressure.
+
+Features
+Search for a city to view its weather forecast
+Toggle between Celsius and Fahrenheit units
+Displays real-time weather information including temperature, humidity, wind speed, and pressure
+How to Use
+Clone the Repository: Clone this repository to your local machine using the following command:
+
+bash
+Copy code
+git clone https://github.com/your-username/weather-app.git
+Open the Project: Navigate to the project directory and open the index.html file in your preferred web browser.
+
+Search for a City: Enter the name of the city you want to check the weather for in the search bar and press Enter.
+
+Toggle Units: Click on the temperature units (°C or °F) to switch between Celsius and Fahrenheit.
+
+View Weather Information: Once you search for a city, the app will display its current weather conditions, including temperature, humidity, wind speed, and pressure.
+
+Preview
+
+Technologies Used
+HTML
+CSS
+JavaScript
+OpenWeatherMap API
+Credits
+Weather icons: Font Awesome
+Author
+
+This project is maintained by  KENNETH THUO. If you have any questions or suggestions, feel free to reach out.
+
+
+
+
+
